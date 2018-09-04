@@ -1,2 +1,16 @@
-.idea
+**/.idea
+
+**/node_modules
+**/bower_components
+**/.tmp
+**/.dist
+**/.sass-cache
+
+**/.settings
+**/.metadata
+**/Servers
+**/RemoteSystemsTempFiles
+
+**/target/*
+
 *.iml
